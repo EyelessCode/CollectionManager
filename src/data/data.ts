@@ -30,7 +30,63 @@ export const collection=[
         format:"Digital",
         numPista:1000,
         language:"EN"
-      }
+      },
+      {
+        id:3,
+        title:"Música 3",
+        album:"Album de Música 3",
+        releaseDate:"2026-01-25",
+        gender:"Género de Música 3",
+        durationSec:180,
+        coverPhoto:"URL de Música 3",
+        compositor:"Compositor de Música 3",
+        discographfy:"Discografía de Música 3",
+        format:"Digital",
+        numPista:1000,
+        language:"EN"
+      },
+      {
+        id:4,
+        title:"Música 4",
+        album:"Album de Música 4",
+        releaseDate:"2026-01-25",
+        gender:"Género de Música 4",
+        durationSec:180,
+        coverPhoto:"URL de Música 4",
+        compositor:"Compositor de Música 4",
+        discographfy:"Discografía de Música 4",
+        format:"Digital",
+        numPista:1000,
+        language:"EN"
+      },
+      {
+        id:2,
+        title:"Música 5",
+        album:"Album de Música 5",
+        releaseDate:"2026-01-25",
+        gender:"Género de Música 5",
+        durationSec:180,
+        coverPhoto:"URL de Música 5",
+        compositor:"Compositor de Música 5",
+        discographfy:"Discografía de Música 5",
+        format:"Digital",
+        numPista:1000,
+        language:"EN"
+      },
+      {
+        id:6,
+        title:"Música 6",
+        album:"Album de Música 6",
+        releaseDate:"2026-01-25",
+        gender:"Género de Música 6",
+        durationSec:180,
+        coverPhoto:"URL de Música 6",
+        compositor:"Compositor de Música 6",
+        discographfy:"Discografía de Música 6",
+        format:"Digital",
+        numPista:1000,
+        language:"EN"
+      },
     ]
   },
   {
@@ -48,7 +104,13 @@ export const collection=[
         name:"Película 2",
         description:"Descripción de la película 2",
         image:"url"
-      }
+      },
+      {
+        id:3,
+        name:"Película 3",
+        description:"Descripción de la película 3",
+        image:"url"
+      },
     ]
   },
   {
@@ -84,7 +146,31 @@ export const collection=[
         name:"Videojuego 2",
         description:"Descripción del videojuego 2",
         image:"url"
-      }
+      },
+      {
+        id:3,
+        name:"Videojuego 3",
+        description:"Descripción del videojuego 3",
+        image:"url"
+      },
+      {
+        id:4,
+        name:"Videojuego 4",
+        description:"Descripción del videojuego 4",
+        image:"url"
+      },
+      {
+        id:5,
+        name:"Videojuego 5",
+        description:"Descripción del videojuego 5",
+        image:"url"
+      },
+      {
+        id:6,
+        name:"Videojuego 6",
+        description:"Descripción del videojuego 6",
+        image:"url"
+      },
     ]
   }
 ]

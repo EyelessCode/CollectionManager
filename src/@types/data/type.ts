@@ -5,6 +5,14 @@ export interface Collection<T> {
   items: T[];
 }
 
+export interface FavoriteItem{
+  id?:number|undefined
+  category:string|string[]|undefined
+  title:string|string[]|undefined
+  coverPhoto?:string|undefined
+  item?:object
+}
+
 export interface Accesor<T>{
   header:string
   accesor:keyof T
